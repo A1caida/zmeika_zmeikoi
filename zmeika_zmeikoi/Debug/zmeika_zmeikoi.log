@@ -1,0 +1,3 @@
+﻿  zmeika_zmeikoi.cpp
+C:\Users\A1caida\source\repos\zmeika_zmeikoi\zmeika_zmeikoi\zmeika_zmeikoi.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  zmeika_zmeikoi.vcxproj -> C:\Users\A1caida\source\repos\zmeika_zmeikoi\Debug\zmeika_zmeikoi.exe
